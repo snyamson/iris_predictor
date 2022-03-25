@@ -1,0 +1,13 @@
+name: iris_predictor
+title: iris_predictor
+username:
+account: snyamson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5935331
+bundleId: 5727114
+url: https://snyamson.shinyapps.io/iris_predictor/
+when: 1648222436.52672
+lastSyncTime: 1648222436.52672
+asMultiple: FALSE
+asStatic: FALSE
